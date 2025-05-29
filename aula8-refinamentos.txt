@@ -1,1 +1,102 @@
+Q1 - Escreva um algoritmo que calcule a soma de dois números inteiros.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+
+Q2 - Escreva um algoritmo que calcule a soma de dois números inteiros e mostre o resultado.
+
+    1. Ler ou pegar esses dois números;
+    2. Calculo a soma desses números;
+    3. Mostro o resultado desse cálculo.
+
+Q3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', cacule a soma deles e mostre o resultado.
+
+
+    Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas;
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a soma de 'a' mais 'b';
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a soma de [a] + [b];
+    3. Mostre o resultado dessa soma.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [soma] = [a] + [b];
+    3. Mostre [soma].
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];            
+    2. Ler [b];
+    3. [soma] = [a] + [b];
+    4. Mostre [soma].  # print [soma]    show [soma]     output [soma]
+
+Q4 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado.
+
+Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule a subtração de 'a' menos 'b';
+    3. Mostre o resultado dessa soma.
+
+        Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule a [diferença] = [a] - [b];
+    3. Mostre [diferença].
+
+Q5-  Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+
+     Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o produto de 'a' x 'b';
+    3. Mostre o resultado desse produto.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [produto] = [a] x [b];
+    3. Mostre [produto].
+
+Q6-  - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
+
+   Passo a passo:
+      (1) identificar quais são as entradas de dados; 
+      (2) identificar quais são as saídas de dados;
+      (3) Processamento: pensar em como as minhas entradas vão gerar as minhas saídas.
+
+    1. Leia os números 'a' e 'b';
+    2. Calcule o quociente de 'a' / 'b';
+    3. Mostre o resultado desse quociente.
+
+    Refinando o 'código':
+
+    1. Leia os números [a] e [b];
+    2. Calcule o [quociente] = [a] / [b];
+    3. Mostre [quociente].  
+
+
+
+
+
+
+
+
+
 
